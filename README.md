@@ -6,7 +6,7 @@ ID : Durra
 Pass : 123
 
 Login as Pelayan
-ID : Durra
+ID : fauzan
 Pass : 123
 
 Login as Kasir
